@@ -15,3 +15,7 @@ I would like to thank each one of the contributor for the help.
 ## Inspiration
 
 To make life easy.
+
+## DOWNLOAD
+
+You may download the data at https://www.kaggle.com/bhavinmoriya/german-traffic-sign-recognition-benchmark
